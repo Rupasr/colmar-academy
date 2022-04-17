@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* body{
+    background-color: #;
+} */
+
+.sL li{
+    background-color: #4a4a4a;
+    color: #fff;
+    text-align: center;
+    margin: 4px 0px;
+    padding: 16px 0px;
+    cursor: pointer;
+}
